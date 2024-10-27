@@ -1,0 +1,79 @@
+
+.timer{padding-top: 20px;
+    box-sizing: border-box;
+    margin-left:200px;
+    background-color: black;
+    width: 40%;
+    height: 100vh;
+    color: white;
+    text-align: center;
+}
+.but{
+height: 100px;
+align-items: center;
+    display: flex;
+    justify-content: space-around;
+   
+}
+button{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: grey;
+    color: white;
+    border: none;
+}
+.baslat{
+    background-color: rgb(2, 67, 2);
+    color: rgb(59, 243, 59);
+}
+.dayan{
+ color: rgb(254, 63, 63);
+    background-color: rgb(96, 3, 3);
+}
+h1{
+    margin-left: 190px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  text-align: center;
+   width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 2px solid orange;
+    box-sizing: border-box;
+}
+.bir, .iki, .uc, .dord{
+    width: 20%;
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: grey;
+    font-size: 20px;
+    border-radius: 10%;
+    
+}
+.icon{
+    
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+footer{
+    background-color: black;
+}
+.uc{
+    color: orange;
+background-color: rgb(130, 92, 23);
+}
+
+ol{
+    height: 300px;
+    
+    overflow: auto;
+}
+.tur{
+    height: 300px;
+}
